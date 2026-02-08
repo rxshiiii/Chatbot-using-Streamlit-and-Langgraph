@@ -33,7 +33,7 @@ This project demonstrates a **real-world agentic AI system** with Retrieval-Augm
 
 ## 🏗️ Architecture Overview
 
-![LangGraph PDF Chatbot Architecture](assets/architecture.png)
+![LangGraph PDF Chatbot Architecture](https://github.com/rxshiiii/Chatbot-using-Streamlit-and-Langgraph/blob/main/Chatbot%20with%20streamlit%20architecture.png)
 
 > High-level system architecture illustrating LangGraph agent flow, tool routing, and the RAG pipeline.
 
